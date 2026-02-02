@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: mytimepkg-raj
+Version: 1.0.0
+Summary: Simple Python time utility package
+Author: Raj Amrutiya
+Author-email: your-email@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary
+
+# mytimepkg
+A beginner-friendly and lightweight Python utility package for working with time, including current date &amp; time display, countdown timers, sleep functions, and execution time measurement.
